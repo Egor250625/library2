@@ -24,15 +24,7 @@ public class Main {
                 """);
 
 
-//        Reader reader1 = new Reader();
-//        reader1.nameSurnameMiddleName = "   ";
-//        reader1.numberOfReadersTicket = 12348967;
-//        reader1.faculty = "";
-//        reader1.dateOfBirth = "2.09.2004";
-//        reader1.phoneNumber = "+375331236547";
-//        reader1.printReaderInformation(reader1);
-//        logic.takeBook(13, reader1);
-//        logic.takeBook("Adventures ","encyclopedia");
+
 
 
     }
